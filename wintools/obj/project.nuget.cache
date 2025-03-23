@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YPtBLwCU0K4=",
+  "dgSpecHash": "UumxQE46EvM=",
   "success": true,
   "projectFilePath": "C:\\Users\\proti\\OneDrive\\Desktop\\wintools\\wintools\\wintools.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\proti\\.nuget\\packages\\system.codedom\\9.0.3\\system.codedom.9.0.3.nupkg.sha512",
+    "C:\\Users\\proti\\.nuget\\packages\\system.management\\9.0.3\\system.management.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

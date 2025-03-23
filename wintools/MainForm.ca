@@ -1,0 +1,70 @@
+using System;
+using System.Windows.Forms;
+
+namespace wintools
+{
+    public class MainForm : Form
+    {
+        public MainForm()
+        {
+            Text = "WinTools GUI";
+            Width = 800;
+            Height = 600;
+
+            // Example: Add a button
+            var button = new Button
+            {
+                Text = "Click Me",
+                Location = new System.Drawing.Point(10, 10)
+            };
+            button.Click += (sender, args) => MessageBox.Show("Hello, World!");
+            Controls.Add(button);
+        }
+    }
+}using System;
+using System.Windows.Forms;
+
+namespace wintools
+{
+    public class MainForm : Form
+    {
+        public MainForm()
+        {
+            Text = "WinTools GUI";
+            Width = 800;
+            Height = 600;
+
+            // Example: Add a button
+            var button = new Button
+            {
+                Text = "Click Me",
+                Location = new System.Drawing.Point(10, 10)
+            };
+            button.Click += (sender, args) => MessageBox.Show("Hello, World!");
+            Controls.Add(button);
+        }
+    }
+}using System;
+using System.Windows.Forms;
+
+namespace wintools
+{
+    public class MainForm : Form
+    {
+        public MainForm()
+        {
+            Text = "WinTools GUI";
+            Width = 800;
+            Height = 600;
+
+            // Example: Add a button
+            var button = new Button
+            {
+                Text = "Click Me",
+                Location = new System.Drawing.Point(10, 10)
+            };
+            button.Click += (sender, args) => MessageBox.Show("Hello, World!");
+            Controls.Add(button);
+        }
+    }
+}
